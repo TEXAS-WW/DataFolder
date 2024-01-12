@@ -1,1 +1,28 @@
+pathogens_of_concern :
+ignore
 
+User Submitted:
+1) genome_coverage:
+> validate by the order of columns
+
+
+2) metadata:
+> sample id : look for substring "sample" and  "id" then rename
+> rest of columns: substring matching
+
+
+3) taxonomical_profiles:
+
+> substring matching. All columns must be present
+
+
+4) qPCR
+> index is not used
+> substring matching
+
+
+5) site_coding
+
+> WWTP_location.xlsx :  manually created
+
+> WWTP_codes1.xlsx  + Sites_and_abbreviations.xlsx  ==> user submitted (substring matching)
