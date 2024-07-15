@@ -1,0 +1,601 @@
+"","LocationAbbr","CMMR_Barcode","Target","Ct","copiesperml","SampleName","date_of_collection"
+"11000","JT","DVGFSQ","CHIKUNGUNYA","Undetermined",0,"JT Raw",2024-04-30
+"5155","JT","DVGFSQ","CHIKUNGUNYA","Undetermined",0,"JT Raw",2024-04-30
+"9152","FH","E4W7SA","CHIKUNGUNYA","Undetermined",0,"FH Raw",2024-04-30
+"13155","FH","E4W7SA","CHIKUNGUNYA","Undetermined",0,"FH Raw",2024-04-30
+"17105","HS","WPX6S7","CHIKUNGUNYA","Undetermined",0,"HS raw",2024-04-30
+"21131","HS","WPX6S7","CHIKUNGUNYA","Undetermined",0,"HS raw",2024-04-30
+"25128","RB","DQ6VB8","CHIKUNGUNYA","Undetermined",0,"RB raw",2024-04-30
+"29128","RB","DQ6VB8","CHIKUNGUNYA","Undetermined",0,"RB raw",2024-04-30
+"33124","AS","YJFB4B","CHIKUNGUNYA","Undetermined",0,"Almeda Sims",2024-04-30
+"3751","AS","YJFB4B","CHIKUNGUNYA","Undetermined",0,"Almeda Sims",2024-04-30
+"4169","TC","TYMNRU","CHIKUNGUNYA","Undetermined",0,"Turkey Creek",2024-04-30
+"4537","TC","TYMNRU","CHIKUNGUNYA","Undetermined",0,"Turkey Creek",2024-04-30
+"4935","MC","D6X5DP","CHIKUNGUNYA","Undetermined",0,"Metro Central",2024-04-30
+"5336","MC","D6X5DP","CHIKUNGUNYA","Undetermined",0,"Metro Central",2024-04-30
+"5735","IA","ZCQ2PV","CHIKUNGUNYA","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6143","IA","ZCQ2PV","CHIKUNGUNYA","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6535","HO","U69RDA","CHIKUNGUNYA","Undetermined",0,"Homestead",2024-04-30
+"6935","HO","U69RDA","CHIKUNGUNYA","Undetermined",0,"Homestead",2024-04-30
+"7336","LB","M4ED8X","CHIKUNGUNYA","Undetermined",0,"Lubock",2024-04-30
+"7735","LB","M4ED8X","CHIKUNGUNYA","Undetermined",0,"Lubock",2024-04-30
+"8158","WF","WB3K6N","CHIKUNGUNYA","Undetermined",0,"Wichita Falls",2024-04-30
+"8535","WF","WB3K6N","CHIKUNGUNYA","Undetermined",0,"Wichita Falls",2024-04-30
+"8933","BC","G7A5CA","CHIKUNGUNYA","Undetermined",0,"Baytown Central",2024-04-29
+"9335","BC","G7A5CA","CHIKUNGUNYA","Undetermined",0,"Baytown Central",2024-04-29
+"9733","BW","YV33AE","CHIKUNGUNYA","Undetermined",0,"Baytown West",2024-04-29
+"10141","BW","YV33AE","CHIKUNGUNYA","Undetermined",0,"Baytown West",2024-04-29
+"10534","HW","K9W5GC","CHIKUNGUNYA","Undetermined",0,"Humble West",2024-04-29
+"10934","HW","K9W5GC","CHIKUNGUNYA","Undetermined",0,"Humble West",2024-04-29
+"11337","FR","ASAL5L","CHIKUNGUNYA","Undetermined",0,"Fondren Rd.",2024-04-29
+"11734","FR","ASAL5L","CHIKUNGUNYA","Undetermined",0,"Fondren Rd.",2024-04-29
+"12158","S1","QYEK4W","CHIKUNGUNYA","Undetermined",0,"South Austin region 1",2024-05-01
+"12534","S1","QYEK4W","CHIKUNGUNYA","Undetermined",0,"South Austin region 1",2024-05-01
+"12934","S2","WNJBJQ","CHIKUNGUNYA","Undetermined",0,"South Austin region 2",2024-05-01
+"13336","S2","WNJBJQ","CHIKUNGUNYA","Undetermined",0,"South Austin region 2",2024-05-01
+"13734","WC","QSK7YF","CHIKUNGUNYA","Undetermined",0,"Walnut Creek",2024-04-30
+"14143","WC","QSK7YF","CHIKUNGUNYA","Undetermined",0,"Walnut Creek",2024-04-30
+"14530","S1","VBTY2N","CHIKUNGUNYA","Undetermined",0,"South Austin region 1",2024-04-30
+"14930","S1","VBTY2N","CHIKUNGUNYA","Undetermined",0,"South Austin region 1",2024-04-30
+"15332","S2","XWA9TG","CHIKUNGUNYA","Undetermined",0,"South Austin region 2",2024-04-30
+"15730","S2","XWA9TG","CHIKUNGUNYA","Undetermined",0,"South Austin region 2",2024-04-30
+"16140","WC","GJMKZG","CHIKUNGUNYA","Undetermined",0,"Walnut Creek",2024-04-30
+"16526","WC","GJMKZG","CHIKUNGUNYA","Undetermined",0,"Walnut Creek",2024-04-30
+"16919","B1","GKKHUQ","CHIKUNGUNYA","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17319","B1","GKKHUQ","CHIKUNGUNYA","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17714","B2","CWDUY8","CHIKUNGUNYA","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18120","B2","CWDUY8","CHIKUNGUNYA","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18513","ZC","BSZ73B","CHIKUNGUNYA","Undetermined",0,"Zacate Creek",2024-04-30
+"18913","ZC","BSZ73B","CHIKUNGUNYA","Undetermined",0,"Zacate Creek",2024-04-30
+"19317","SL","LRXGLB","CHIKUNGUNYA","Undetermined",0,"South Laredo",2024-04-30
+"19713","SL","LRXGLB","CHIKUNGUNYA","Undetermined",0,"South Laredo",2024-04-30
+"21004","JT","DVGFSQ","DENGUE","Undetermined",0,"JT Raw",2024-04-30
+"6144","JT","DVGFSQ","DENGUE","Undetermined",0,"JT Raw",2024-04-30
+"10142","FH","E4W7SA","DENGUE","Undetermined",0,"FH Raw",2024-04-30
+"14144","FH","E4W7SA","DENGUE","Undetermined",0,"FH Raw",2024-04-30
+"18101","HS","WPX6S7","DENGUE","Undetermined",0,"HS raw",2024-04-30
+"22121","HS","WPX6S7","DENGUE","Undetermined",0,"HS raw",2024-04-30
+"26109","RB","DQ6VB8","DENGUE","Undetermined",0,"RB raw",2024-04-30
+"30109","RB","DQ6VB8","DENGUE","Undetermined",0,"RB raw",2024-04-30
+"34105","AS","YJFB4B","DENGUE","Undetermined",0,"Almeda Sims",2024-04-30
+"3835","AS","YJFB4B","DENGUE","Undetermined",0,"Almeda Sims",2024-04-30
+"4233","TC","TYMNRU","DENGUE","Undetermined",0,"Turkey Creek",2024-04-30
+"4623","TC","TYMNRU","DENGUE","Undetermined",0,"Turkey Creek",2024-04-30
+"5018","MC","D6X5DP","DENGUE","Undetermined",0,"Metro Central",2024-04-30
+"5422","MC","D6X5DP","DENGUE","Undetermined",0,"Metro Central",2024-04-30
+"5820","IA","ZCQ2PV","DENGUE","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6222","IA","ZCQ2PV","DENGUE","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6619","HO","U69RDA","DENGUE","Undetermined",0,"Homestead",2024-04-30
+"7018","HO","U69RDA","DENGUE","Undetermined",0,"Homestead",2024-04-30
+"7422","LB","M4ED8X","DENGUE","Undetermined",0,"Lubock",2024-04-30
+"7820","LB","M4ED8X","DENGUE","Undetermined",0,"Lubock",2024-04-30
+"8223","WF","WB3K6N","DENGUE","Undetermined",0,"Wichita Falls",2024-04-30
+"8621","WF","WB3K6N","DENGUE","Undetermined",0,"Wichita Falls",2024-04-30
+"9017","BC","G7A5CA","DENGUE","Undetermined",0,"Baytown Central",2024-04-29
+"9421","BC","G7A5CA","DENGUE","Undetermined",0,"Baytown Central",2024-04-29
+"9819","BW","YV33AE","DENGUE","Undetermined",0,"Baytown West",2024-04-29
+"10222","BW","YV33AE","DENGUE","Undetermined",0,"Baytown West",2024-04-29
+"10619","HW","K9W5GC","DENGUE","Undetermined",0,"Humble West",2024-04-29
+"11025","HW","K9W5GC","DENGUE","Undetermined",0,"Humble West",2024-04-29
+"11423","FR","ASAL5L","DENGUE","Undetermined",0,"Fondren Rd.",2024-04-29
+"11821","FR","ASAL5L","DENGUE","Undetermined",0,"Fondren Rd.",2024-04-29
+"12223","S1","QYEK4W","DENGUE","Undetermined",0,"South Austin region 1",2024-05-01
+"12621","S1","QYEK4W","DENGUE","Undetermined",0,"South Austin region 1",2024-05-01
+"13019","S2","WNJBJQ","DENGUE","Undetermined",0,"South Austin region 2",2024-05-01
+"13422","S2","WNJBJQ","DENGUE","Undetermined",0,"South Austin region 2",2024-05-01
+"13820","WC","QSK7YF","DENGUE","Undetermined",0,"Walnut Creek",2024-04-30
+"14222","WC","QSK7YF","DENGUE","Undetermined",0,"Walnut Creek",2024-04-30
+"14618","S1","VBTY2N","DENGUE","Undetermined",0,"South Austin region 1",2024-04-30
+"15016","S1","VBTY2N","DENGUE","Undetermined",0,"South Austin region 1",2024-04-30
+"15419","S2","XWA9TG","DENGUE","Undetermined",0,"South Austin region 2",2024-04-30
+"15817","S2","XWA9TG","DENGUE","Undetermined",0,"South Austin region 2",2024-04-30
+"16221","WC","GJMKZG","DENGUE","Undetermined",0,"Walnut Creek",2024-04-30
+"16619","WC","GJMKZG","DENGUE","Undetermined",0,"Walnut Creek",2024-04-30
+"17015","B1","GKKHUQ","DENGUE","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17416","B1","GKKHUQ","DENGUE","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17811","B2","CWDUY8","DENGUE","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18216","B2","CWDUY8","DENGUE","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18613","ZC","BSZ73B","DENGUE","Undetermined",0,"Zacate Creek",2024-04-30
+"19013","ZC","BSZ73B","DENGUE","Undetermined",0,"Zacate Creek",2024-04-30
+"19415","SL","LRXGLB","DENGUE","Undetermined",0,"South Laredo",2024-04-30
+"19813","SL","LRXGLB","DENGUE","Undetermined",0,"South Laredo",2024-04-30
+"4170","JT","DVGFSQ","RSVA","Undetermined",0,"JT Raw",2024-04-30
+"8159","JT","DVGFSQ","RSVA","Undetermined",0,"JT Raw",2024-04-30
+"12159","FH","E4W7SA","RSVA","Undetermined",0,"FH Raw",2024-04-30
+"16141","FH","E4W7SA","RSVA","Undetermined",0,"FH Raw",2024-04-30
+"20125","HS","WPX6S7","RSVA","Undetermined",0,"HS raw",2024-04-30
+"24128","HS","WPX6S7","RSVA","Undetermined",0,"HS raw",2024-04-30
+"28128","RB","DQ6VB8","RSVA","Undetermined",0,"RB raw",2024-04-30
+"32128","RB","DQ6VB8","RSVA","Undetermined",0,"RB raw",2024-04-30
+"3659","AS","YJFB4B","RSVA","Undetermined",0,"Almeda Sims",2024-04-30
+"4048","AS","YJFB4B","RSVA","Undetermined",0,"Almeda Sims",2024-04-30
+"4438","TC","TYMNRU","RSVA","Undetermined",0,"Turkey Creek",2024-04-30
+"4835","TC","TYMNRU","RSVA","Undetermined",0,"Turkey Creek",2024-04-30
+"5238","MC","D6X5DP","RSVA","Undetermined",0,"Metro Central",2024-04-30
+"5635","MC","D6X5DP","RSVA","Undetermined",0,"Metro Central",2024-04-30
+"6035","IA","ZCQ2PV","RSVA","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6435","IA","ZCQ2PV","RSVA","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6835","HO","U69RDA","RSVA","Undetermined",0,"Homestead",2024-04-30
+"7238","HO","U69RDA","RSVA","Undetermined",0,"Homestead",2024-04-30
+"7635","LB","M4ED8X","RSVA","Undetermined",0,"Lubock",2024-04-30
+"8035","LB","M4ED8X","RSVA","Undetermined",0,"Lubock",2024-04-30
+"8435","WF","WB3K6N","RSVA","Undetermined",0,"Wichita Falls",2024-04-30
+"8835","WF","WB3K6N","RSVA","Undetermined",0,"Wichita Falls",2024-04-30
+"9237","BC","G7A5CA","RSVA","Undetermined",0,"Baytown Central",2024-04-29
+"9633","BC","G7A5CA","RSVA","Undetermined",0,"Baytown Central",2024-04-29
+"10033","BW","YV33AE","RSVA","Undetermined",0,"Baytown West",2024-04-29
+"10433","BW","YV33AE","RSVA","Undetermined",0,"Baytown West",2024-04-29
+"10834","HW","K9W5GC","RSVA","Undetermined",0,"Humble West",2024-04-29
+"11238","HW","K9W5GC","RSVA","Undetermined",0,"Humble West",2024-04-29
+"11634","FR","ASAL5L","RSVA","Undetermined",0,"Fondren Rd.",2024-04-29
+"12034","FR","ASAL5L","RSVA","Undetermined",0,"Fondren Rd.",2024-04-29
+"12434","S1","QYEK4W","RSVA","Undetermined",0,"South Austin region 1",2024-05-01
+"12834","S1","QYEK4W","RSVA","Undetermined",0,"South Austin region 1",2024-05-01
+"13237","S2","WNJBJQ","RSVA","Undetermined",0,"South Austin region 2",2024-05-01
+"13634","S2","WNJBJQ","RSVA","Undetermined",0,"South Austin region 2",2024-05-01
+"14034","WC","QSK7YF","RSVA","Undetermined",0,"Walnut Creek",2024-04-30
+"14434","WC","QSK7YF","RSVA","Undetermined",0,"Walnut Creek",2024-04-30
+"14830","S1","VBTY2N","RSVA","Undetermined",0,"South Austin region 1",2024-04-30
+"15234","S1","VBTY2N","RSVA","Undetermined",0,"South Austin region 1",2024-04-30
+"15630","S2","XWA9TG","RSVA","Undetermined",0,"South Austin region 2",2024-04-30
+"16030","S2","XWA9TG","RSVA","Undetermined",0,"South Austin region 2",2024-04-30
+"16426","WC","GJMKZG","RSVA","Undetermined",0,"Walnut Creek",2024-04-30
+"16825","WC","GJMKZG","RSVA","Undetermined",0,"Walnut Creek",2024-04-30
+"17219","B1","GKKHUQ","RSVA","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17615","B1","GKKHUQ","RSVA","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"18012","B2","CWDUY8","RSVA","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18415","B2","CWDUY8","RSVA","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18813","ZC","BSZ73B","RSVA","Undetermined",0,"Zacate Creek",2024-04-30
+"19218","ZC","BSZ73B","RSVA","Undetermined",0,"Zacate Creek",2024-04-30
+"19614","SL","LRXGLB","RSVA","Undetermined",0,"South Laredo",2024-04-30
+"20013","SL","LRXGLB","RSVA","Undetermined",0,"South Laredo",2024-04-30
+"3571","JT","DVGFSQ","WESTNILE","Undetermined",0,"JT Raw",2024-04-30
+"7156","JT","DVGFSQ","WESTNILE","Undetermined",0,"JT Raw",2024-04-30
+"11161","FH","E4W7SA","WESTNILE","Undetermined",0,"FH Raw",2024-04-30
+"15151","FH","E4W7SA","WESTNILE","Undetermined",0,"FH Raw",2024-04-30
+"19129","HS","WPX6S7","WESTNILE","Undetermined",0,"HS raw",2024-04-30
+"23128","HS","WPX6S7","WESTNILE","Undetermined",0,"HS raw",2024-04-30
+"27129","RB","DQ6VB8","WESTNILE","Undetermined",0,"RB raw",2024-04-30
+"31131","RB","DQ6VB8","WESTNILE","Undetermined",0,"RB raw",2024-04-30
+"3572","AS","YJFB4B","WESTNILE","Undetermined",0,"Almeda Sims",2024-04-30
+"3948","AS","YJFB4B","WESTNILE","Undetermined",0,"Almeda Sims",2024-04-30
+"4339","TC","TYMNRU","WESTNILE","Undetermined",0,"Turkey Creek",2024-04-30
+"4735","TC","TYMNRU","WESTNILE","Undetermined",0,"Turkey Creek",2024-04-30
+"5156","MC","D6X5DP","WESTNILE","Undetermined",0,"Metro Central",2024-04-30
+"5535","MC","D6X5DP","WESTNILE","Undetermined",0,"Metro Central",2024-04-30
+"5935","IA","ZCQ2PV","WESTNILE","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6335","IA","ZCQ2PV","WESTNILE","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6735","HO","U69RDA","WESTNILE","Undetermined",0,"Homestead",2024-04-30
+"7157","HO","U69RDA","WESTNILE","Undetermined",0,"Homestead",2024-04-30
+"7535","LB","M4ED8X","WESTNILE","Undetermined",0,"Lubock",2024-04-30
+"7935","LB","M4ED8X","WESTNILE","Undetermined",0,"Lubock",2024-04-30
+"8335","WF","WB3K6N","WESTNILE","Undetermined",0,"Wichita Falls",2024-04-30
+"8735","WF","WB3K6N","WESTNILE","Undetermined",0,"Wichita Falls",2024-04-30
+"9153","BC","G7A5CA","WESTNILE","Undetermined",0,"Baytown Central",2024-04-29
+"9533","BC","G7A5CA","WESTNILE","Undetermined",0,"Baytown Central",2024-04-29
+"9933","BW","YV33AE","WESTNILE","Undetermined",0,"Baytown West",2024-04-29
+"10333","BW","YV33AE","WESTNILE","Undetermined",0,"Baytown West",2024-04-29
+"10734","HW","K9W5GC","WESTNILE","Undetermined",0,"Humble West",2024-04-29
+"11162","HW","K9W5GC","WESTNILE","Undetermined",0,"Humble West",2024-04-29
+"11534","FR","ASAL5L","WESTNILE","Undetermined",0,"Fondren Rd.",2024-04-29
+"11934","FR","ASAL5L","WESTNILE","Undetermined",0,"Fondren Rd.",2024-04-29
+"12335","S1","QYEK4W","WESTNILE","Undetermined",0,"South Austin region 1",2024-05-01
+"12734","S1","QYEK4W","WESTNILE","Undetermined",0,"South Austin region 1",2024-05-01
+"13156","S2","WNJBJQ","WESTNILE","Undetermined",0,"South Austin region 2",2024-05-01
+"13534","S2","WNJBJQ","WESTNILE","Undetermined",0,"South Austin region 2",2024-05-01
+"13934","WC","QSK7YF","WESTNILE","Undetermined",0,"Walnut Creek",2024-04-30
+"14334","WC","QSK7YF","WESTNILE","Undetermined",0,"Walnut Creek",2024-04-30
+"14730","S1","VBTY2N","WESTNILE","Undetermined",0,"South Austin region 1",2024-04-30
+"15152","S1","VBTY2N","WESTNILE","Undetermined",0,"South Austin region 1",2024-04-30
+"15530","S2","XWA9TG","WESTNILE","Undetermined",0,"South Austin region 2",2024-04-30
+"15930","S2","XWA9TG","WESTNILE","Undetermined",0,"South Austin region 2",2024-04-30
+"16326","WC","GJMKZG","WESTNILE","Undetermined",0,"Walnut Creek",2024-04-30
+"16725","WC","GJMKZG","WESTNILE","Undetermined",0,"Walnut Creek",2024-04-30
+"17119","B1","GKKHUQ","WESTNILE","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17517","B1","GKKHUQ","WESTNILE","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17912","B2","CWDUY8","WESTNILE","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18318","B2","CWDUY8","WESTNILE","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18713","ZC","BSZ73B","WESTNILE","Undetermined",0,"Zacate Creek",2024-04-30
+"19130","ZC","BSZ73B","WESTNILE","Undetermined",0,"Zacate Creek",2024-04-30
+"19514","SL","LRXGLB","WESTNILE","Undetermined",0,"South Laredo",2024-04-30
+"19913","SL","LRXGLB","WESTNILE","Undetermined",0,"South Laredo",2024-04-30
+"11001","JT","DVGFSQ","MONKEYPOX","Undetermined",0,"JT Raw",2024-04-30
+"21005","JT","DVGFSQ","MONKEYPOX","Undetermined",0,"JT Raw",2024-04-30
+"3573","FH","E4W7SA","MONKEYPOX","Undetermined",0,"FH Raw",2024-04-30
+"4171","FH","E4W7SA","MONKEYPOX","Undetermined",0,"FH Raw",2024-04-30
+"5157","HS","WPX6S7","MONKEYPOX","Undetermined",0,"HS raw",2024-04-30
+"6145","HS","WPX6S7","MONKEYPOX","Undetermined",0,"HS raw",2024-04-30
+"7158","RB","DQ6VB8","MONKEYPOX","Undetermined",0,"RB raw",2024-04-30
+"8160","RB","DQ6VB8","MONKEYPOX","Undetermined",0,"RB raw",2024-04-30
+"9154","AS","YJFB4B","MONKEYPOX","Undetermined",0,"Almeda Sims",2024-04-30
+"10143","AS","YJFB4B","MONKEYPOX","Undetermined",0,"Almeda Sims",2024-04-30
+"11163","TC","TYMNRU","MONKEYPOX","Undetermined",0,"Turkey Creek",2024-04-30
+"12160","TC","TYMNRU","MONKEYPOX","Undetermined",0,"Turkey Creek",2024-04-30
+"13157","MC","D6X5DP","MONKEYPOX","Undetermined",0,"Metro Central",2024-04-30
+"14145","MC","D6X5DP","MONKEYPOX","Undetermined",0,"Metro Central",2024-04-30
+"15153","IA","ZCQ2PV","MONKEYPOX","Undetermined",0,"Intercontinental Airport",2024-04-30
+"16142","IA","ZCQ2PV","MONKEYPOX","Undetermined",0,"Intercontinental Airport",2024-04-30
+"17106","HO","U69RDA","MONKEYPOX","Undetermined",0,"Homestead",2024-04-30
+"18102","HO","U69RDA","MONKEYPOX","Undetermined",0,"Homestead",2024-04-30
+"19131","LB","M4ED8X","MONKEYPOX","37.133",914.652,"Lubock",2024-04-30
+"20126","LB","M4ED8X","MONKEYPOX","Undetermined",0,"Lubock",2024-04-30
+"21132","WF","WB3K6N","MONKEYPOX","Undetermined",0,"Wichita Falls",2024-04-30
+"22122","WF","WB3K6N","MONKEYPOX","Undetermined",0,"Wichita Falls",2024-04-30
+"23129","BC","G7A5CA","MONKEYPOX","Undetermined",0,"Baytown Central",2024-04-29
+"24129","BC","G7A5CA","MONKEYPOX","Undetermined",0,"Baytown Central",2024-04-29
+"25129","BW","YV33AE","MONKEYPOX","Undetermined",0,"Baytown West",2024-04-29
+"26119","BW","YV33AE","MONKEYPOX","Undetermined",0,"Baytown West",2024-04-29
+"27130","HW","K9W5GC","MONKEYPOX","37.255",835.599,"Humble West",2024-04-29
+"28129","HW","K9W5GC","MONKEYPOX","37.234",848.483,"Humble West",2024-04-29
+"29129","FR","ASAL5L","MONKEYPOX","Undetermined",0,"Fondren Rd.",2024-04-29
+"30119","FR","ASAL5L","MONKEYPOX","Undetermined",0,"Fondren Rd.",2024-04-29
+"31132","S1","QYEK4W","MONKEYPOX","Undetermined",0,"South Austin region 1",2024-05-01
+"32129","S1","QYEK4W","MONKEYPOX","Undetermined",0,"South Austin region 1",2024-05-01
+"33125","S2","WNJBJQ","MONKEYPOX","Undetermined",0,"South Austin region 2",2024-05-01
+"34106","S2","WNJBJQ","MONKEYPOX","Undetermined",0,"South Austin region 2",2024-05-01
+"3574","WC","QSK7YF","MONKEYPOX","Undetermined",0,"Walnut Creek",2024-04-30
+"3660","WC","QSK7YF","MONKEYPOX","Undetermined",0,"Walnut Creek",2024-04-30
+"3752","S1","VBTY2N","MONKEYPOX","Undetermined",0,"South Austin region 1",2024-04-30
+"3836","S1","VBTY2N","MONKEYPOX","Undetermined",0,"South Austin region 1",2024-04-30
+"3949","S2","XWA9TG","MONKEYPOX","Undetermined",0,"South Austin region 2",2024-04-30
+"4049","S2","XWA9TG","MONKEYPOX","Undetermined",0,"South Austin region 2",2024-04-30
+"4172","WC","GJMKZG","MONKEYPOX","Undetermined",0,"Walnut Creek",2024-04-30
+"4234","WC","GJMKZG","MONKEYPOX","Undetermined",0,"Walnut Creek",2024-04-30
+"4340","B1","GKKHUQ","MONKEYPOX","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"4439","B1","GKKHUQ","MONKEYPOX","37.069",959.538,"Brownsville-South/Robindale",2024-05-02
+"4538","B2","CWDUY8","MONKEYPOX","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"4624","B2","CWDUY8","MONKEYPOX","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"4736","ZC","BSZ73B","MONKEYPOX","Undetermined",0,"Zacate Creek",2024-04-30
+"4836","ZC","BSZ73B","MONKEYPOX","Undetermined",0,"Zacate Creek",2024-04-30
+"4936","SL","LRXGLB","MONKEYPOX","Undetermined",0,"South Laredo",2024-04-30
+"5019","SL","LRXGLB","MONKEYPOX","Undetermined",0,"South Laredo",2024-04-30
+"11002","JT","DVGFSQ","ENTERO","Undetermined",0,"JT Raw",2024-04-30
+"5158","JT","DVGFSQ","ENTERO","Undetermined",0,"JT Raw",2024-04-30
+"9155","FH","E4W7SA","ENTERO","Undetermined",0,"FH Raw",2024-04-30
+"13158","FH","E4W7SA","ENTERO","Undetermined",0,"FH Raw",2024-04-30
+"17107","HS","WPX6S7","ENTERO","Undetermined",0,"HS raw",2024-04-30
+"21133","HS","WPX6S7","ENTERO","Undetermined",0,"HS raw",2024-04-30
+"25130","RB","DQ6VB8","ENTERO","Undetermined",0,"RB raw",2024-04-30
+"29130","RB","DQ6VB8","ENTERO","Undetermined",0,"RB raw",2024-04-30
+"33126","AS","YJFB4B","ENTERO","Undetermined",0,"Almeda Sims",2024-04-30
+"3753","AS","YJFB4B","ENTERO","Undetermined",0,"Almeda Sims",2024-04-30
+"4173","TC","TYMNRU","ENTERO","Undetermined",0,"Turkey Creek",2024-04-30
+"4539","TC","TYMNRU","ENTERO","Undetermined",0,"Turkey Creek",2024-04-30
+"4937","MC","D6X5DP","ENTERO","Undetermined",0,"Metro Central",2024-04-30
+"5337","MC","D6X5DP","ENTERO","Undetermined",0,"Metro Central",2024-04-30
+"5736","IA","ZCQ2PV","ENTERO","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6146","IA","ZCQ2PV","ENTERO","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6536","HO","U69RDA","ENTERO","Undetermined",0,"Homestead",2024-04-30
+"6936","HO","U69RDA","ENTERO","Undetermined",0,"Homestead",2024-04-30
+"7337","LB","M4ED8X","ENTERO","Undetermined",0,"Lubock",2024-04-30
+"7736","LB","M4ED8X","ENTERO","Undetermined",0,"Lubock",2024-04-30
+"8161","WF","WB3K6N","ENTERO","Undetermined",0,"Wichita Falls",2024-04-30
+"8536","WF","WB3K6N","ENTERO","Undetermined",0,"Wichita Falls",2024-04-30
+"8934","BC","G7A5CA","ENTERO","Undetermined",0,"Baytown Central",2024-04-29
+"9336","BC","G7A5CA","ENTERO","Undetermined",0,"Baytown Central",2024-04-29
+"9734","BW","YV33AE","ENTERO","Undetermined",0,"Baytown West",2024-04-29
+"10144","BW","YV33AE","ENTERO","Undetermined",0,"Baytown West",2024-04-29
+"10535","HW","K9W5GC","ENTERO","Undetermined",0,"Humble West",2024-04-29
+"10935","HW","K9W5GC","ENTERO","Undetermined",0,"Humble West",2024-04-29
+"11338","FR","ASAL5L","ENTERO","Undetermined",0,"Fondren Rd.",2024-04-29
+"11735","FR","ASAL5L","ENTERO","Undetermined",0,"Fondren Rd.",2024-04-29
+"12161","S1","QYEK4W","ENTERO","Undetermined",0,"South Austin region 1",2024-05-01
+"12535","S1","QYEK4W","ENTERO","Undetermined",0,"South Austin region 1",2024-05-01
+"12935","S2","WNJBJQ","ENTERO","Undetermined",0,"South Austin region 2",2024-05-01
+"13337","S2","WNJBJQ","ENTERO","Undetermined",0,"South Austin region 2",2024-05-01
+"13735","WC","QSK7YF","ENTERO","Undetermined",0,"Walnut Creek",2024-04-30
+"14146","WC","QSK7YF","ENTERO","Undetermined",0,"Walnut Creek",2024-04-30
+"14531","S1","VBTY2N","ENTERO","Undetermined",0,"South Austin region 1",2024-04-30
+"14931","S1","VBTY2N","ENTERO","Undetermined",0,"South Austin region 1",2024-04-30
+"15333","S2","XWA9TG","ENTERO","Undetermined",0,"South Austin region 2",2024-04-30
+"15731","S2","XWA9TG","ENTERO","Undetermined",0,"South Austin region 2",2024-04-30
+"16143","WC","GJMKZG","ENTERO","Undetermined",0,"Walnut Creek",2024-04-30
+"16527","WC","GJMKZG","ENTERO","Undetermined",0,"Walnut Creek",2024-04-30
+"16920","B1","GKKHUQ","ENTERO","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17320","B1","GKKHUQ","ENTERO","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17715","B2","CWDUY8","ENTERO","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18121","B2","CWDUY8","ENTERO","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18514","ZC","BSZ73B","ENTERO","Undetermined",0,"Zacate Creek",2024-04-30
+"18914","ZC","BSZ73B","ENTERO","Undetermined",0,"Zacate Creek",2024-04-30
+"19318","SL","LRXGLB","ENTERO","Undetermined",0,"South Laredo",2024-04-30
+"19714","SL","LRXGLB","ENTERO","Undetermined",0,"South Laredo",2024-04-30
+"21006","JT","DVGFSQ","NOROVIRUS","28.497",7204047.077,"JT Raw",2024-04-30
+"6147","JT","DVGFSQ","NOROVIRUS","30.422",1902208.964,"JT Raw",2024-04-30
+"10145","FH","E4W7SA","NOROVIRUS","30.098",2380870.102,"FH Raw",2024-04-30
+"14147","FH","E4W7SA","NOROVIRUS","30.654",1620386.381,"FH Raw",2024-04-30
+"18103","HS","WPX6S7","NOROVIRUS","30.717",1551528.385,"HS raw",2024-04-30
+"22123","HS","WPX6S7","NOROVIRUS","31.192",1117318.894,"HS raw",2024-04-30
+"26120","RB","DQ6VB8","NOROVIRUS","31.236",1084061.747,"RB raw",2024-04-30
+"30120","RB","DQ6VB8","NOROVIRUS","31.953",660296.058,"RB raw",2024-04-30
+"34107","AS","YJFB4B","NOROVIRUS","31.758",755400.282,"Almeda Sims",2024-04-30
+"3837","AS","YJFB4B","NOROVIRUS","32.257",535004.362,"Almeda Sims",2024-04-30
+"4235","TC","TYMNRU","NOROVIRUS","32.223",547807.02,"Turkey Creek",2024-04-30
+"4625","TC","TYMNRU","NOROVIRUS","31.673",801018.614,"Turkey Creek",2024-04-30
+"5020","MC","D6X5DP","NOROVIRUS","Undetermined",0,"Metro Central",2024-04-30
+"5423","MC","D6X5DP","NOROVIRUS","Undetermined",0,"Metro Central",2024-04-30
+"5821","IA","ZCQ2PV","NOROVIRUS","29.891",2747627.938,"Intercontinental Airport",2024-04-30
+"6223","IA","ZCQ2PV","NOROVIRUS","29.696",3143593.572,"Intercontinental Airport",2024-04-30
+"6620","HO","U69RDA","NOROVIRUS","39.386",3867.465,"Homestead",2024-04-30
+"7019","HO","U69RDA","NOROVIRUS","35.421",60003.577,"Homestead",2024-04-30
+"7423","LB","M4ED8X","NOROVIRUS","35.514",56270.302,"Lubock",2024-04-30
+"7821","LB","M4ED8X","NOROVIRUS","42.184",558.71,"Lubock",2024-04-30
+"8224","WF","WB3K6N","NOROVIRUS","Undetermined",0,"Wichita Falls",2024-04-30
+"8622","WF","WB3K6N","NOROVIRUS","Undetermined",0,"Wichita Falls",2024-04-30
+"9018","BC","G7A5CA","NOROVIRUS","43.406",239.988,"Baytown Central",2024-04-29
+"9422","BC","G7A5CA","NOROVIRUS","39.701",3110.511,"Baytown Central",2024-04-29
+"9820","BW","YV33AE","NOROVIRUS","33.364",248791.077,"Baytown West",2024-04-29
+"10223","BW","YV33AE","NOROVIRUS","36.214",34681.595,"Baytown West",2024-04-29
+"10620","HW","K9W5GC","NOROVIRUS","Undetermined",0,"Humble West",2024-04-29
+"11026","HW","K9W5GC","NOROVIRUS","Undetermined",0,"Humble West",2024-04-29
+"11424","FR","ASAL5L","NOROVIRUS","Undetermined",0,"Fondren Rd.",2024-04-29
+"11822","FR","ASAL5L","NOROVIRUS","Undetermined",0,"Fondren Rd.",2024-04-29
+"12224","S1","QYEK4W","NOROVIRUS","Undetermined",0,"South Austin region 1",2024-05-01
+"12622","S1","QYEK4W","NOROVIRUS","Undetermined",0,"South Austin region 1",2024-05-01
+"13020","S2","WNJBJQ","NOROVIRUS","Undetermined",0,"South Austin region 2",2024-05-01
+"13423","S2","WNJBJQ","NOROVIRUS","Undetermined",0,"South Austin region 2",2024-05-01
+"13821","WC","QSK7YF","NOROVIRUS","Undetermined",0,"Walnut Creek",2024-04-30
+"14223","WC","QSK7YF","NOROVIRUS","Undetermined",0,"Walnut Creek",2024-04-30
+"14619","S1","VBTY2N","NOROVIRUS","Undetermined",0,"South Austin region 1",2024-04-30
+"15017","S1","VBTY2N","NOROVIRUS","Undetermined",0,"South Austin region 1",2024-04-30
+"15420","S2","XWA9TG","NOROVIRUS","Undetermined",0,"South Austin region 2",2024-04-30
+"15818","S2","XWA9TG","NOROVIRUS","Undetermined",0,"South Austin region 2",2024-04-30
+"16222","WC","GJMKZG","NOROVIRUS","Undetermined",0,"Walnut Creek",2024-04-30
+"16620","WC","GJMKZG","NOROVIRUS","Undetermined",0,"Walnut Creek",2024-04-30
+"17016","B1","GKKHUQ","NOROVIRUS","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17417","B1","GKKHUQ","NOROVIRUS","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17812","B2","CWDUY8","NOROVIRUS","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18217","B2","CWDUY8","NOROVIRUS","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18614","ZC","BSZ73B","NOROVIRUS","Undetermined",0,"Zacate Creek",2024-04-30
+"19014","ZC","BSZ73B","NOROVIRUS","Undetermined",0,"Zacate Creek",2024-04-30
+"19416","SL","LRXGLB","NOROVIRUS","Undetermined",0,"South Laredo",2024-04-30
+"19814","SL","LRXGLB","NOROVIRUS","Undetermined",0,"South Laredo",2024-04-30
+"4174","JT","DVGFSQ","RSVB","Undetermined",0,"JT Raw",2024-04-30
+"8162","JT","DVGFSQ","RSVB","Undetermined",0,"JT Raw",2024-04-30
+"12162","FH","E4W7SA","RSVB","Undetermined",0,"FH Raw",2024-04-30
+"16144","FH","E4W7SA","RSVB","Undetermined",0,"FH Raw",2024-04-30
+"20127","HS","WPX6S7","RSVB","Undetermined",0,"HS raw",2024-04-30
+"24130","HS","WPX6S7","RSVB","Undetermined",0,"HS raw",2024-04-30
+"28130","RB","DQ6VB8","RSVB","Undetermined",0,"RB raw",2024-04-30
+"32130","RB","DQ6VB8","RSVB","Undetermined",0,"RB raw",2024-04-30
+"3661","AS","YJFB4B","RSVB","Undetermined",0,"Almeda Sims",2024-04-30
+"4050","AS","YJFB4B","RSVB","Undetermined",0,"Almeda Sims",2024-04-30
+"4440","TC","TYMNRU","RSVB","Undetermined",0,"Turkey Creek",2024-04-30
+"4837","TC","TYMNRU","RSVB","Undetermined",0,"Turkey Creek",2024-04-30
+"5239","MC","D6X5DP","RSVB","Undetermined",0,"Metro Central",2024-04-30
+"5636","MC","D6X5DP","RSVB","Undetermined",0,"Metro Central",2024-04-30
+"6036","IA","ZCQ2PV","RSVB","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6436","IA","ZCQ2PV","RSVB","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6836","HO","U69RDA","RSVB","Undetermined",0,"Homestead",2024-04-30
+"7239","HO","U69RDA","RSVB","Undetermined",0,"Homestead",2024-04-30
+"7636","LB","M4ED8X","RSVB","Undetermined",0,"Lubock",2024-04-30
+"8036","LB","M4ED8X","RSVB","Undetermined",0,"Lubock",2024-04-30
+"8436","WF","WB3K6N","RSVB","Undetermined",0,"Wichita Falls",2024-04-30
+"8836","WF","WB3K6N","RSVB","Undetermined",0,"Wichita Falls",2024-04-30
+"9238","BC","G7A5CA","RSVB","Undetermined",0,"Baytown Central",2024-04-29
+"9634","BC","G7A5CA","RSVB","Undetermined",0,"Baytown Central",2024-04-29
+"10034","BW","YV33AE","RSVB","Undetermined",0,"Baytown West",2024-04-29
+"10434","BW","YV33AE","RSVB","Undetermined",0,"Baytown West",2024-04-29
+"10835","HW","K9W5GC","RSVB","Undetermined",0,"Humble West",2024-04-29
+"11239","HW","K9W5GC","RSVB","Undetermined",0,"Humble West",2024-04-29
+"11635","FR","ASAL5L","RSVB","Undetermined",0,"Fondren Rd.",2024-04-29
+"12035","FR","ASAL5L","RSVB","Undetermined",0,"Fondren Rd.",2024-04-29
+"12435","S1","QYEK4W","RSVB","Undetermined",0,"South Austin region 1",2024-05-01
+"12835","S1","QYEK4W","RSVB","Undetermined",0,"South Austin region 1",2024-05-01
+"13238","S2","WNJBJQ","RSVB","Undetermined",0,"South Austin region 2",2024-05-01
+"13635","S2","WNJBJQ","RSVB","Undetermined",0,"South Austin region 2",2024-05-01
+"14035","WC","QSK7YF","RSVB","Undetermined",0,"Walnut Creek",2024-04-30
+"14435","WC","QSK7YF","RSVB","Undetermined",0,"Walnut Creek",2024-04-30
+"14831","S1","VBTY2N","RSVB","Undetermined",0,"South Austin region 1",2024-04-30
+"15235","S1","VBTY2N","RSVB","Undetermined",0,"South Austin region 1",2024-04-30
+"15631","S2","XWA9TG","RSVB","Undetermined",0,"South Austin region 2",2024-04-30
+"16031","S2","XWA9TG","RSVB","Undetermined",0,"South Austin region 2",2024-04-30
+"16427","WC","GJMKZG","RSVB","Undetermined",0,"Walnut Creek",2024-04-30
+"16826","WC","GJMKZG","RSVB","Undetermined",0,"Walnut Creek",2024-04-30
+"17220","B1","GKKHUQ","RSVB","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17616","B1","GKKHUQ","RSVB","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"18013","B2","CWDUY8","RSVB","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18416","B2","CWDUY8","RSVB","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18814","ZC","BSZ73B","RSVB","Undetermined",0,"Zacate Creek",2024-04-30
+"19219","ZC","BSZ73B","RSVB","Undetermined",0,"Zacate Creek",2024-04-30
+"19615","SL","LRXGLB","RSVB","Undetermined",0,"South Laredo",2024-04-30
+"20014","SL","LRXGLB","RSVB","Undetermined",0,"South Laredo",2024-04-30
+"3575","JT","DVGFSQ","ZIKA","Undetermined",0,"JT Raw",2024-04-30
+"7159","JT","DVGFSQ","ZIKA","Undetermined",0,"JT Raw",2024-04-30
+"11164","FH","E4W7SA","ZIKA","Undetermined",0,"FH Raw",2024-04-30
+"15154","FH","E4W7SA","ZIKA","Undetermined",0,"FH Raw",2024-04-30
+"19132","HS","WPX6S7","ZIKA","Undetermined",0,"HS raw",2024-04-30
+"23130","HS","WPX6S7","ZIKA","Undetermined",0,"HS raw",2024-04-30
+"27131","RB","DQ6VB8","ZIKA","Undetermined",0,"RB raw",2024-04-30
+"31133","RB","DQ6VB8","ZIKA","Undetermined",0,"RB raw",2024-04-30
+"3576","AS","YJFB4B","ZIKA","Undetermined",0,"Almeda Sims",2024-04-30
+"3950","AS","YJFB4B","ZIKA","Undetermined",0,"Almeda Sims",2024-04-30
+"4341","TC","TYMNRU","ZIKA","Undetermined",0,"Turkey Creek",2024-04-30
+"4737","TC","TYMNRU","ZIKA","Undetermined",0,"Turkey Creek",2024-04-30
+"5159","MC","D6X5DP","ZIKA","Undetermined",0,"Metro Central",2024-04-30
+"5536","MC","D6X5DP","ZIKA","Undetermined",0,"Metro Central",2024-04-30
+"5936","IA","ZCQ2PV","ZIKA","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6336","IA","ZCQ2PV","ZIKA","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6736","HO","U69RDA","ZIKA","Undetermined",0,"Homestead",2024-04-30
+"7160","HO","U69RDA","ZIKA","Undetermined",0,"Homestead",2024-04-30
+"7536","LB","M4ED8X","ZIKA","Undetermined",0,"Lubock",2024-04-30
+"7936","LB","M4ED8X","ZIKA","Undetermined",0,"Lubock",2024-04-30
+"8336","WF","WB3K6N","ZIKA","Undetermined",0,"Wichita Falls",2024-04-30
+"8736","WF","WB3K6N","ZIKA","Undetermined",0,"Wichita Falls",2024-04-30
+"9156","BC","G7A5CA","ZIKA","Undetermined",0,"Baytown Central",2024-04-29
+"9534","BC","G7A5CA","ZIKA","Undetermined",0,"Baytown Central",2024-04-29
+"9934","BW","YV33AE","ZIKA","Undetermined",0,"Baytown West",2024-04-29
+"10334","BW","YV33AE","ZIKA","Undetermined",0,"Baytown West",2024-04-29
+"10735","HW","K9W5GC","ZIKA","Undetermined",0,"Humble West",2024-04-29
+"11165","HW","K9W5GC","ZIKA","Undetermined",0,"Humble West",2024-04-29
+"11535","FR","ASAL5L","ZIKA","Undetermined",0,"Fondren Rd.",2024-04-29
+"11935","FR","ASAL5L","ZIKA","Undetermined",0,"Fondren Rd.",2024-04-29
+"12336","S1","QYEK4W","ZIKA","Undetermined",0,"South Austin region 1",2024-05-01
+"12735","S1","QYEK4W","ZIKA","Undetermined",0,"South Austin region 1",2024-05-01
+"13159","S2","WNJBJQ","ZIKA","Undetermined",0,"South Austin region 2",2024-05-01
+"13535","S2","WNJBJQ","ZIKA","Undetermined",0,"South Austin region 2",2024-05-01
+"13935","WC","QSK7YF","ZIKA","Undetermined",0,"Walnut Creek",2024-04-30
+"14335","WC","QSK7YF","ZIKA","Undetermined",0,"Walnut Creek",2024-04-30
+"14731","S1","VBTY2N","ZIKA","Undetermined",0,"South Austin region 1",2024-04-30
+"15155","S1","VBTY2N","ZIKA","Undetermined",0,"South Austin region 1",2024-04-30
+"15531","S2","XWA9TG","ZIKA","Undetermined",0,"South Austin region 2",2024-04-30
+"15931","S2","XWA9TG","ZIKA","Undetermined",0,"South Austin region 2",2024-04-30
+"16327","WC","GJMKZG","ZIKA","Undetermined",0,"Walnut Creek",2024-04-30
+"16726","WC","GJMKZG","ZIKA","Undetermined",0,"Walnut Creek",2024-04-30
+"17120","B1","GKKHUQ","ZIKA","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17518","B1","GKKHUQ","ZIKA","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17913","B2","CWDUY8","ZIKA","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18319","B2","CWDUY8","ZIKA","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18714","ZC","BSZ73B","ZIKA","Undetermined",0,"Zacate Creek",2024-04-30
+"19133","ZC","BSZ73B","ZIKA","Undetermined",0,"Zacate Creek",2024-04-30
+"19515","SL","LRXGLB","ZIKA","Undetermined",0,"South Laredo",2024-04-30
+"19914","SL","LRXGLB","ZIKA","Undetermined",0,"South Laredo",2024-04-30
+"3577","JT","DVGFSQ","INFLUENZAA","Undetermined",0,"JT Raw",2024-04-30
+"7161","JT","DVGFSQ","INFLUENZAA","Undetermined",0,"JT Raw",2024-04-30
+"11166","FH","E4W7SA","INFLUENZAA","Undetermined",0,"FH Raw",2024-04-30
+"15156","FH","E4W7SA","INFLUENZAA","Undetermined",0,"FH Raw",2024-04-30
+"19134","HS","WPX6S7","INFLUENZAA","Undetermined",0,"HS raw",2024-04-30
+"23131","HS","WPX6S7","INFLUENZAA","39.108",4046.092,"HS raw",2024-04-30
+"27132","RB","DQ6VB8","INFLUENZAA","Undetermined",0,"RB raw",2024-04-30
+"31134","RB","DQ6VB8","INFLUENZAA","Undetermined",0,"RB raw",2024-04-30
+"3578","AS","YJFB4B","INFLUENZAA","Undetermined",0,"Almeda Sims",2024-04-30
+"3951","AS","YJFB4B","INFLUENZAA","Undetermined",0,"Almeda Sims",2024-04-30
+"4342","TC","TYMNRU","INFLUENZAA","Undetermined",0,"Turkey Creek",2024-04-30
+"4738","TC","TYMNRU","INFLUENZAA","Undetermined",0,"Turkey Creek",2024-04-30
+"5160","MC","D6X5DP","INFLUENZAA","Undetermined",0,"Metro Central",2024-04-30
+"5537","MC","D6X5DP","INFLUENZAA","Undetermined",0,"Metro Central",2024-04-30
+"5937","IA","ZCQ2PV","INFLUENZAA","39.433",3264.289,"Intercontinental Airport",2024-04-30
+"6337","IA","ZCQ2PV","INFLUENZAA","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6737","HO","U69RDA","INFLUENZAA","37.158",14705.059,"Homestead",2024-04-30
+"7162","HO","U69RDA","INFLUENZAA","44.149",144.027,"Homestead",2024-04-30
+"7537","LB","M4ED8X","INFLUENZAA","Undetermined",0,"Lubock",2024-04-30
+"7937","LB","M4ED8X","INFLUENZAA","Undetermined",0,"Lubock",2024-04-30
+"8337","WF","WB3K6N","INFLUENZAA","Undetermined",0,"Wichita Falls",2024-04-30
+"8737","WF","WB3K6N","INFLUENZAA","Undetermined",0,"Wichita Falls",2024-04-30
+"9157","BC","G7A5CA","INFLUENZAA","Undetermined",0,"Baytown Central",2024-04-29
+"9535","BC","G7A5CA","INFLUENZAA","Undetermined",0,"Baytown Central",2024-04-29
+"9935","BW","YV33AE","INFLUENZAA","Undetermined",0,"Baytown West",2024-04-29
+"10335","BW","YV33AE","INFLUENZAA","Undetermined",0,"Baytown West",2024-04-29
+"10736","HW","K9W5GC","INFLUENZAA","Undetermined",0,"Humble West",2024-04-29
+"11167","HW","K9W5GC","INFLUENZAA","29.148",2944547.072,"Humble West",2024-04-29
+"11536","FR","ASAL5L","INFLUENZAA","Undetermined",0,"Fondren Rd.",2024-04-29
+"11936","FR","ASAL5L","INFLUENZAA","39.853",2472.287,"Fondren Rd.",2024-04-29
+"12337","S1","QYEK4W","INFLUENZAA","Undetermined",0,"South Austin region 1",2024-05-01
+"12736","S1","QYEK4W","INFLUENZAA","Undetermined",0,"South Austin region 1",2024-05-01
+"13160","S2","WNJBJQ","INFLUENZAA","Undetermined",0,"South Austin region 2",2024-05-01
+"13536","S2","WNJBJQ","INFLUENZAA","Undetermined",0,"South Austin region 2",2024-05-01
+"13936","WC","QSK7YF","INFLUENZAA","Undetermined",0,"Walnut Creek",2024-04-30
+"14336","WC","QSK7YF","INFLUENZAA","Undetermined",0,"Walnut Creek",2024-04-30
+"14732","S1","VBTY2N","INFLUENZAA","Undetermined",0,"South Austin region 1",2024-04-30
+"15157","S1","VBTY2N","INFLUENZAA","Undetermined",0,"South Austin region 1",2024-04-30
+"15532","S2","XWA9TG","INFLUENZAA","Undetermined",0,"South Austin region 2",2024-04-30
+"15932","S2","XWA9TG","INFLUENZAA","Undetermined",0,"South Austin region 2",2024-04-30
+"16328","WC","GJMKZG","INFLUENZAA","Undetermined",0,"Walnut Creek",2024-04-30
+"16727","WC","GJMKZG","INFLUENZAA","Undetermined",0,"Walnut Creek",2024-04-30
+"17121","B1","GKKHUQ","INFLUENZAA","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17519","B1","GKKHUQ","INFLUENZAA","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17914","B2","CWDUY8","INFLUENZAA","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18320","B2","CWDUY8","INFLUENZAA","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18715","ZC","BSZ73B","INFLUENZAA","Undetermined",0,"Zacate Creek",2024-04-30
+"19135","ZC","BSZ73B","INFLUENZAA","44.137",145.223,"Zacate Creek",2024-04-30
+"19516","SL","LRXGLB","INFLUENZAA","Undetermined",0,"South Laredo",2024-04-30
+"19915","SL","LRXGLB","INFLUENZAA","Undetermined",0,"South Laredo",2024-04-30
+"4175","JT","DVGFSQ","INFLUENZAB","Undetermined",0,"JT Raw",2024-04-30
+"8163","JT","DVGFSQ","INFLUENZAB","Undetermined",0,"JT Raw",2024-04-30
+"12163","FH","E4W7SA","INFLUENZAB","Undetermined",0,"FH Raw",2024-04-30
+"16145","FH","E4W7SA","INFLUENZAB","Undetermined",0,"FH Raw",2024-04-30
+"20128","HS","WPX6S7","INFLUENZAB","Undetermined",0,"HS raw",2024-04-30
+"24131","HS","WPX6S7","INFLUENZAB","Undetermined",0,"HS raw",2024-04-30
+"28131","RB","DQ6VB8","INFLUENZAB","Undetermined",0,"RB raw",2024-04-30
+"32131","RB","DQ6VB8","INFLUENZAB","Undetermined",0,"RB raw",2024-04-30
+"3662","AS","YJFB4B","INFLUENZAB","Undetermined",0,"Almeda Sims",2024-04-30
+"4051","AS","YJFB4B","INFLUENZAB","Undetermined",0,"Almeda Sims",2024-04-30
+"4441","TC","TYMNRU","INFLUENZAB","Undetermined",0,"Turkey Creek",2024-04-30
+"4838","TC","TYMNRU","INFLUENZAB","Undetermined",0,"Turkey Creek",2024-04-30
+"5240","MC","D6X5DP","INFLUENZAB","Undetermined",0,"Metro Central",2024-04-30
+"5637","MC","D6X5DP","INFLUENZAB","Undetermined",0,"Metro Central",2024-04-30
+"6037","IA","ZCQ2PV","INFLUENZAB","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6437","IA","ZCQ2PV","INFLUENZAB","Undetermined",0,"Intercontinental Airport",2024-04-30
+"6837","HO","U69RDA","INFLUENZAB","Undetermined",0,"Homestead",2024-04-30
+"7240","HO","U69RDA","INFLUENZAB","Undetermined",0,"Homestead",2024-04-30
+"7637","LB","M4ED8X","INFLUENZAB","Undetermined",0,"Lubock",2024-04-30
+"8037","LB","M4ED8X","INFLUENZAB","Undetermined",0,"Lubock",2024-04-30
+"8437","WF","WB3K6N","INFLUENZAB","Undetermined",0,"Wichita Falls",2024-04-30
+"8837","WF","WB3K6N","INFLUENZAB","Undetermined",0,"Wichita Falls",2024-04-30
+"9239","BC","G7A5CA","INFLUENZAB","Undetermined",0,"Baytown Central",2024-04-29
+"9635","BC","G7A5CA","INFLUENZAB","Undetermined",0,"Baytown Central",2024-04-29
+"10035","BW","YV33AE","INFLUENZAB","Undetermined",0,"Baytown West",2024-04-29
+"10435","BW","YV33AE","INFLUENZAB","Undetermined",0,"Baytown West",2024-04-29
+"10836","HW","K9W5GC","INFLUENZAB","Undetermined",0,"Humble West",2024-04-29
+"11240","HW","K9W5GC","INFLUENZAB","Undetermined",0,"Humble West",2024-04-29
+"11636","FR","ASAL5L","INFLUENZAB","Undetermined",0,"Fondren Rd.",2024-04-29
+"12036","FR","ASAL5L","INFLUENZAB","Undetermined",0,"Fondren Rd.",2024-04-29
+"12436","S1","QYEK4W","INFLUENZAB","Undetermined",0,"South Austin region 1",2024-05-01
+"12836","S1","QYEK4W","INFLUENZAB","Undetermined",0,"South Austin region 1",2024-05-01
+"13239","S2","WNJBJQ","INFLUENZAB","Undetermined",0,"South Austin region 2",2024-05-01
+"13636","S2","WNJBJQ","INFLUENZAB","Undetermined",0,"South Austin region 2",2024-05-01
+"14036","WC","QSK7YF","INFLUENZAB","Undetermined",0,"Walnut Creek",2024-04-30
+"14436","WC","QSK7YF","INFLUENZAB","Undetermined",0,"Walnut Creek",2024-04-30
+"14832","S1","VBTY2N","INFLUENZAB","Undetermined",0,"South Austin region 1",2024-04-30
+"15236","S1","VBTY2N","INFLUENZAB","Undetermined",0,"South Austin region 1",2024-04-30
+"15632","S2","XWA9TG","INFLUENZAB","Undetermined",0,"South Austin region 2",2024-04-30
+"16032","S2","XWA9TG","INFLUENZAB","Undetermined",0,"South Austin region 2",2024-04-30
+"16428","WC","GJMKZG","INFLUENZAB","Undetermined",0,"Walnut Creek",2024-04-30
+"16827","WC","GJMKZG","INFLUENZAB","Undetermined",0,"Walnut Creek",2024-04-30
+"17221","B1","GKKHUQ","INFLUENZAB","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"17617","B1","GKKHUQ","INFLUENZAB","Undetermined",0,"Brownsville-South/Robindale",2024-05-02
+"18014","B2","CWDUY8","INFLUENZAB","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18417","B2","CWDUY8","INFLUENZAB","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18815","ZC","BSZ73B","INFLUENZAB","Undetermined",0,"Zacate Creek",2024-04-30
+"19220","ZC","BSZ73B","INFLUENZAB","Undetermined",0,"Zacate Creek",2024-04-30
+"19616","SL","LRXGLB","INFLUENZAB","Undetermined",0,"South Laredo",2024-04-30
+"20015","SL","LRXGLB","INFLUENZAB","Undetermined",0,"South Laredo",2024-04-30
+"11003","JT","DVGFSQ","SARSCOV2N1","Undetermined",0,"JT Raw",2024-04-30
+"5161","JT","DVGFSQ","SARSCOV2N1","36.715",1247.47,"JT Raw",2024-04-30
+"9158","FH","E4W7SA","SARSCOV2N1","31.556",57599.285,"FH Raw",2024-04-30
+"13161","FH","E4W7SA","SARSCOV2N1","34.092",8754.343,"FH Raw",2024-04-30
+"17108","HS","WPX6S7","SARSCOV2N1","31.431",63207.983,"HS raw",2024-04-30
+"21134","HS","WPX6S7","SARSCOV2N1","31.285",70421.848,"HS raw",2024-04-30
+"25131","RB","DQ6VB8","SARSCOV2N1","29.58",249866.144,"RB raw",2024-04-30
+"29131","RB","DQ6VB8","SARSCOV2N1","30.229",154283.797,"RB raw",2024-04-30
+"33127","AS","YJFB4B","SARSCOV2N1","33.408",14554.515,"Almeda Sims",2024-04-30
+"3754","AS","YJFB4B","SARSCOV2N1","35.112",4103.543,"Almeda Sims",2024-04-30
+"4176","TC","TYMNRU","SARSCOV2N1","32.662",25324.806,"Turkey Creek",2024-04-30
+"4540","TC","TYMNRU","SARSCOV2N1","32.611",26298.636,"Turkey Creek",2024-04-30
+"4938","MC","D6X5DP","SARSCOV2N1","35.745",2564.852,"Metro Central",2024-04-30
+"5338","MC","D6X5DP","SARSCOV2N1","34.871",4910.512,"Metro Central",2024-04-30
+"5737","IA","ZCQ2PV","SARSCOV2N1","32.054",39792.772,"Intercontinental Airport",2024-04-30
+"6148","IA","ZCQ2PV","SARSCOV2N1","32.977",20050.572,"Intercontinental Airport",2024-04-30
+"6537","HO","U69RDA","SARSCOV2N1","36.746",1219.436,"Homestead",2024-04-30
+"6937","HO","U69RDA","SARSCOV2N1","Undetermined",0,"Homestead",2024-04-30
+"7338","LB","M4ED8X","SARSCOV2N1","32.42",30309.473,"Lubock",2024-04-30
+"7737","LB","M4ED8X","SARSCOV2N1","32.752",23685.448,"Lubock",2024-04-30
+"8164","WF","WB3K6N","SARSCOV2N1","37.625",634.762,"Wichita Falls",2024-04-30
+"8537","WF","WB3K6N","SARSCOV2N1","Undetermined",0,"Wichita Falls",2024-04-30
+"8935","BC","G7A5CA","SARSCOV2N1","Undetermined",0,"Baytown Central",2024-04-29
+"9337","BC","G7A5CA","SARSCOV2N1","42.538",16.517,"Baytown Central",2024-04-29
+"9735","BW","YV33AE","SARSCOV2N1","35.471",3143.76,"Baytown West",2024-04-29
+"10146","BW","YV33AE","SARSCOV2N1","35.477",3130.245,"Baytown West",2024-04-29
+"10536","HW","K9W5GC","SARSCOV2N1","34.862",4941.98,"Humble West",2024-04-29
+"10936","HW","K9W5GC","SARSCOV2N1","36.695",1266.892,"Humble West",2024-04-29
+"11339","FR","ASAL5L","SARSCOV2N1","33.255",16307.404,"Fondren Rd.",2024-04-29
+"11736","FR","ASAL5L","SARSCOV2N1","33.505",13536.733,"Fondren Rd.",2024-04-29
+"12164","S1","QYEK4W","SARSCOV2N1","31.243",72691.162,"South Austin region 1",2024-05-01
+"12536","S1","QYEK4W","SARSCOV2N1","31.267",71364.398,"South Austin region 1",2024-05-01
+"12936","S2","WNJBJQ","SARSCOV2N1","31.982",41978.798,"South Austin region 2",2024-05-01
+"13338","S2","WNJBJQ","SARSCOV2N1","32.772",23332.726,"South Austin region 2",2024-05-01
+"13736","WC","QSK7YF","SARSCOV2N1","33.463",13972.949,"Walnut Creek",2024-04-30
+"14148","WC","QSK7YF","SARSCOV2N1","35.709",2634.165,"Walnut Creek",2024-04-30
+"14532","S1","VBTY2N","SARSCOV2N1","32.01",41114.758,"South Austin region 1",2024-04-30
+"14932","S1","VBTY2N","SARSCOV2N1","31.566",57156.056,"South Austin region 1",2024-04-30
+"15334","S2","XWA9TG","SARSCOV2N1","32.74",23911.71,"South Austin region 2",2024-04-30
+"15732","S2","XWA9TG","SARSCOV2N1","32.959",20309.883,"South Austin region 2",2024-04-30
+"16146","WC","GJMKZG","SARSCOV2N1","32.482",28951.772,"Walnut Creek",2024-04-30
+"16528","WC","GJMKZG","SARSCOV2N1","32.27",33881.722,"Walnut Creek",2024-04-30
+"16921","B1","GKKHUQ","SARSCOV2N1","33.234",16556.384,"Brownsville-South/Robindale",2024-05-02
+"17321","B1","GKKHUQ","SARSCOV2N1","33.21",16854.172,"Brownsville-South/Robindale",2024-05-02
+"17716","B2","CWDUY8","SARSCOV2N1","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18122","B2","CWDUY8","SARSCOV2N1","Undetermined",0,"Brownsville-Andda Bowie/Isla Blanca",2024-05-02
+"18515","ZC","BSZ73B","SARSCOV2N1","32.938",20629.163,"Zacate Creek",2024-04-30
+"18915","ZC","BSZ73B","SARSCOV2N1","32.338",32224.878,"Zacate Creek",2024-04-30
+"19319","SL","LRXGLB","SARSCOV2N1","40.927",54.644,"South Laredo",2024-04-30
+"19715","SL","LRXGLB","SARSCOV2N1","36.513",1449.518,"South Laredo",2024-04-30
